@@ -1,9 +1,9 @@
 # Database Configuration
-database_host=localhost
-database_port=3306
-database_name=app_db
+database_host=db.production.local
+database_port=5433
+database_name=prod_app
 database_user=admin
 
 # Cache Configuration
 cache_enabled=true
-cache_ttl=3600
+cache_ttl=7200
