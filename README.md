@@ -1,3 +1,7 @@
 # Application README.md
 Basic application setup
-Version: 0.0.1
+Version: 4.0.0
+
+## Version 1.0
+- Added configuration system
+- Optimized for production
