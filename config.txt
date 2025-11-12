@@ -1,5 +1,9 @@
 # Database Configuration
 database_host=localhost
-database_port=5432
+database_port=3306
 database_name=app_db
 database_user=admin
+
+# Cache Configuration
+cache_enabled=true
+cache_ttl=3600
