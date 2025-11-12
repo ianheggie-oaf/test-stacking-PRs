@@ -1,3 +1,6 @@
 # Application README
 Basic application setup
-Version: 0.0.1
+Version: 1.0.0
+
+## Version 1.0
+- Added configuration system
