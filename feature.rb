@@ -1,10 +1,11 @@
 class Feature
   def initialize
     @enabled = true
-    @version = 3
+    @optimized = true
+    @version = 4
   end
 
   def process
-    puts "Processing v3"
+    puts "Processing v4 with optimization"
   end
 end
